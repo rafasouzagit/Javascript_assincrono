@@ -3,7 +3,7 @@
 <p>O Javascript por padrão roda de maneira síncrona</p>
 <br>
 <h2>Promises</h2>
-<p>É um objeto de processamento assíncrono.Inicialmente seu valor é desconheciodo.Ela pode então, ser <b>resolvida</b> ou <b>rejeitada</b></p>
+<p>É um objeto de processamento assíncrono.Inicialmente seu valor é desconhecido.Ela pode então, ser <b>resolvida</b> ou <b>rejeitada</b></p>
 <p>Uma promise tem 3 estados:</p>
 <p>1 - Pending(Pendente)</p>
 <p>2 - Fulfilled(Completado)</p>
